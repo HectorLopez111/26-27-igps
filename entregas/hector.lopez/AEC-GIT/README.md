@@ -1,8 +1,9 @@
-Paso 1: Obtener tu propia copia del repositorio
+<img width="750" height="546" alt="image" src="https://github.com/user-attachments/assets/cb3a4cbd-8ba5-4ebc-86fa-aa73e807899d" />Paso 1: Obtener tu propia copia del repositorio
 
 Lo primero que hacemos es ir al repositorio del profesor y entramos en el repo de la asignatura que es 26-27-igpsy una vez dentro pinchamos en el botón de arriba a la derecha fork y creamos el forks
 
  
+
 
 Como podemos observar se ha completado con éxito 
 
