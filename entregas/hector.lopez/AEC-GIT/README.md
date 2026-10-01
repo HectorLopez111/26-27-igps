@@ -60,3 +60,6 @@ Desde la terminal creamos la rama modificaciones
 <img width="871" height="82" alt="Captura de pantalla 2026-10-01 112941" src="https://github.com/user-attachments/assets/a6ef611e-dfa4-4724-bd1f-40a600fbb91b" />
 
 Entramos en el txt y incluimos las capturas y el texto explicativo 
+
+<img width="1465" height="876" alt="image" src="https://github.com/user-attachments/assets/8a39799d-3dd5-4472-8bc6-a9a4f693d3a1" />
+
