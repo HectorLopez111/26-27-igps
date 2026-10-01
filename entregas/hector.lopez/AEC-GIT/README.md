@@ -99,8 +99,14 @@ volvemos a la rama main con el siguiente comando
 
 <img width="687" height="107" alt="Captura de pantalla 2026-10-01 120250" src="https://github.com/user-attachments/assets/409ba3d6-5b77-495a-8b0e-531203392a5d" />
 
+
 Combina los cambios de tu rama docs/modificaciones hacia la principal con el siguiente comando 
 
 <img width="828" height="65" alt="Captura de pantalla 2026-10-01 161132" src="https://github.com/user-attachments/assets/267d8401-6e8a-47eb-8904-ce2c480048bf" />
 
+Paso 6: Crear Pull Request
+
+entramos en el fork de la asignatura y pinchamos en contribute y ya desde ahi creamos el pull request con los siguientes ajustes 
+
+<img width="1433" height="901" alt="Captura de pantalla 2026-10-01 163105" src="https://github.com/user-attachments/assets/7900b944-20e3-46f3-8b16-de4b48484e80" />
 
