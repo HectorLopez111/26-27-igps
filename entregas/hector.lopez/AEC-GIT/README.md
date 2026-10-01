@@ -48,18 +48,8 @@ Paso 3: Primer commit y subida inicial
 
 Creamos un README.txt dentro de la carpeta de AEC-GIT
 
-Añadimos el nuevo archivo al área 
- 
 
-Hacemos el primer commit
-
- 
-
-Y añadimos los nuevos cambios a la rama main 
- 
-
-<img width="1202" height="286" alt="Captura de pantalla 2026-10-01 105642" src="https://github.com/user-attachments/assets/0392b32e-0a62-4e68-83e0-0f202beca292" />
-
+<img width="1202" height="286" alt="Captura de pantalla 2026-10-01 105642" src="https://github.com/user-attachments/assets/6b8f5db0-4fab-437a-81a1-24f5421e0020" />
 
 Añadimos el nuevo archivo al área 
 
@@ -79,7 +69,8 @@ Y añadimos los nuevos cambios a la rama main
 Paso 4: Trabajar en una rama nueva
 Desde la terminal creamos la rama modificaciones
 
- 
+ <img width="897" height="75" alt="Captura de pantalla 2026-10-01 112855" src="https://github.com/user-attachments/assets/506eb00c-3866-4193-aba8-f8fced8d345c" />
+
 
 Entramos en el txt y incluimos las capturas y el texto explicativo 
 
