@@ -29,17 +29,6 @@ Después para clonar este repositorio en nuestro sistema local entramos en la cm
 
 Paso 2: Crear la estructura de carpetas inicial
 Entramos en la carpeta principal hasta llegar al apartado de entregas 
-
-
-
-Creamos una carpeta con nuestro nombre 
-
- <img width="817" height="68" alt="Captura de pantalla 2026-10-01 105152" src="https://github.com/user-attachments/assets/b312a626-5114-46dd-ad10-d05cda7f3430" />
-
-
-Creamos la subcarpeta 
-
- 
  
  <img width="582" height="103" alt="Captura de pantalla 2026-10-01 105005" src="https://github.com/user-attachments/assets/55c174fc-8730-46e5-aee5-b5f11e7b0f5e" />
 
