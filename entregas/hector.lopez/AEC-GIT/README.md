@@ -34,7 +34,8 @@ Entramos en la carpeta principal hasta llegar al apartado de entregas
 
 Creamos una carpeta con nuestro nombre 
 
- 
+ <img width="817" height="68" alt="Captura de pantalla 2026-10-01 105152" src="https://github.com/user-attachments/assets/b312a626-5114-46dd-ad10-d05cda7f3430" />
+
 
 Creamos la subcarpeta 
 
