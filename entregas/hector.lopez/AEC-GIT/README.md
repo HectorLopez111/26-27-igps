@@ -63,9 +63,13 @@ Entramos en el txt y incluimos las capturas y el texto explicativo
 
 <img width="1465" height="876" alt="image" src="https://github.com/user-attachments/assets/8a39799d-3dd5-4472-8bc6-a9a4f693d3a1" />
 
+
 Despues hacemos los commits al md con las capturas y pasos 
 
 <img width="595" height="628" alt="Captura de pantalla 2026-10-01 115221" src="https://github.com/user-attachments/assets/98f28711-de4b-4faa-a7de-73ee372352e0" />
 
 <img width="605" height="633" alt="Captura de pantalla 2026-10-01 115555" src="https://github.com/user-attachments/assets/bf0969e0-6eeb-4962-b99a-3e62bdf72f8f" />
 
+subimos los cambios a la rama documentos 
+
+<img width="1047" height="357" alt="Captura de pantalla 2026-10-01 120004" src="https://github.com/user-attachments/assets/e833086a-6ec3-414e-9e28-ad6e48d3aef9" />
