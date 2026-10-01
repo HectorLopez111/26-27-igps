@@ -68,8 +68,21 @@ Despues hacemos los commits al md con las capturas y pasos
 
 <img width="595" height="628" alt="Captura de pantalla 2026-10-01 115221" src="https://github.com/user-attachments/assets/98f28711-de4b-4faa-a7de-73ee372352e0" />
 
+
 <img width="605" height="633" alt="Captura de pantalla 2026-10-01 115555" src="https://github.com/user-attachments/assets/bf0969e0-6eeb-4962-b99a-3e62bdf72f8f" />
 
 subimos los cambios a la rama documentos 
 
 <img width="1047" height="357" alt="Captura de pantalla 2026-10-01 120004" src="https://github.com/user-attachments/assets/e833086a-6ec3-414e-9e28-ad6e48d3aef9" />
+
+
+Paso 5: Combinar las ramas localmente
+
+volvemos a la rama main con el siguiente comando 
+
+<img width="687" height="107" alt="Captura de pantalla 2026-10-01 120250" src="https://github.com/user-attachments/assets/409ba3d6-5b77-495a-8b0e-531203392a5d" />
+
+Combina los cambios de tu rama docs/modificaciones hacia la principal con el siguiente comando 
+
+<img width="828" height="65" alt="Captura de pantalla 2026-10-01 161132" src="https://github.com/user-attachments/assets/267d8401-6e8a-47eb-8904-ce2c480048bf" />
+
